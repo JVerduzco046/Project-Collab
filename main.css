@@ -1,0 +1,10 @@
+/* BV : Changing Bootstrap styles */
+.bg-light {
+    background-color: coral!important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+}
+.jumbotron {
+    background-color: #e9ecef;
+}
