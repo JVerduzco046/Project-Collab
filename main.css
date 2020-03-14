@@ -8,3 +8,7 @@
 .jumbotron {
     background-color: #e9ecef;
 }
+.card-img, .card-img-top{
+    width: 45%;
+    align-self: center;
+}
